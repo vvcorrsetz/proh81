@@ -1,0 +1,19 @@
+
+h1
+{
+	color: rgb(119, 151, 189); 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image: url("bg1.jpg");
+background-position: center;
+background-size: cover;
+}
+
+#can{
+background-color: white;
+border-style:dashed;
+border-color: rgb(143, 176, 205);
+border-radius: 10;
+}
+
